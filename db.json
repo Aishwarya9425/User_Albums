@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    },
+    {
+      "name": "Mr. Juana King",
+      "id": 5
+    },
+    {
+      "name": "Archie Toy",
+      "id": 6
+    },
+    {
+      "name": "Sheri Langosh",
+      "id": 7
+    },
+    {
+      "name": "Joel Lueilwitz",
+      "id": 8
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Practical Steel Mouse",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Rubber Chair",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Recycled Rubber Chips",
+      "id": 17
+    },
+    {
+      "userId": 3,
+      "title": "Incredible Wooden Pants",
+      "id": 18
+    }
+  ],
+  "photos": []
+}
